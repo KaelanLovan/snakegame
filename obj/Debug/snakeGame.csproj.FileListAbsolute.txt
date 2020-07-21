@@ -1,0 +1,9 @@
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\bin\Debug\Snake Game.exe.config
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\bin\Debug\Snake Game.exe
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\bin\Debug\Snake Game.pdb
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\obj\Debug\snakeGame.Form1.resources
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\obj\Debug\snakeGame.Properties.Resources.resources
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\obj\Debug\snakeGame.csproj.GenerateResource.cache
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\obj\Debug\snakeGame.csproj.CoreCompileInputs.cache
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\obj\Debug\Snake Game.exe
+E:\Hidden Genius Project\repos\snakeGame_ns\snakeGame\obj\Debug\Snake Game.pdb
